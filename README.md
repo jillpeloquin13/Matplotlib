@@ -1,5 +1,8 @@
 # Matplotlib
 
+Notes: 
+Included is the main analysis Juypter notebook and the resources for the following challenge:
+
 # Matplotlib Homework - The Power of Plots
 
 ## Background
